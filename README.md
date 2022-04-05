@@ -1,2 +1,3 @@
 # MotorolaAcademyTask
 Motorola Academy Task "Uncle McDonald Needs Your Help"
+Coding prepares me for a well paid career of the future, it is estimated that half of all office jobs require at least minimal coding skills, that's why I started coding. What is more, all the coding projects, even the simplest one improve my problem-solving skills and logical thinking which are very important both today and in the future job market. Now I can easily break down complex problems into simpler ones. Coding teaches to think outside the box. Every project gives me the opportunity to come up with exciting solutions, that I can see right in front of my eyes.
